@@ -150,3 +150,12 @@ footer .svg-inline--fa:hover {
   }
 }
 }
+
+.align {
+  list-style-type: armenian;
+  text-align: left;
+}
+.mage {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
